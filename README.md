@@ -1,11 +1,16 @@
 <!-- HEADER COM ONDA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<div align="center">
+  <h1>Hi, I'm Gustavo 👋</h1>
+</div>
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-P3QnmxP7yqm1iqNtUjS6j1FEDeOVQSY-i_GG3AZ3aQYObIxYoqf9Z7DVv6iNsjjOIn9qsvet1uLD5AUC7UxGX_j8BLcK7ZpPaiCHTTG3sQtpbcU3Pd2nXiq7kGsxfaw6Cn26ijE4Ome65YZjN7nMc1Bg7n4vQ9AOa9-s0Yf4EVpxsCMeaIm1ewHk-N4/s405/TheGround.gif" alt="gif">
+</p>
+
 
 <!-- TÍTULO E LINKS -->
 <div align="center">
-
-  <h1>Hi, I'm Gustavo 👋</h1>
-  <h3> | AI Intern | Python | AWS Basics | Genesis Genomics |</h3>
+  <h3> Python | AI | AWS Bedrock | AWS S3 </h3>
 
   <!-- Social Links with colorful logos -->
   <a href="https://stackoverflow.com/users/23498042/gustavo-bezerra" target="_blank">
@@ -57,19 +62,6 @@ Feel free to reach out: g.bezerra.contato@gmail.com
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<!-- DIGITAÇÃO -->
-<h2 align="center">⌨️ Typing Speed Challenge</h2>
-
-<p align="center">
-  <a href="https://10fastfingers.com/typing-test/portuguese" target="_blank">
-    <img src="http://img.10fastfingers.com/badge/typing-test_4_CI.png" alt="Typing Test" />
-    <br>
-    <strong>Test your typing speed and try to beat me!</strong>
-  </a>
 </p>
 
 ---

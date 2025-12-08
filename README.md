@@ -24,7 +24,7 @@
 
 <!-- SOBRE MIM -->
 ### 👨‍💻 About Me
-I'm a developer currently working as a Python intern at Genesis Genomics, with over a year of experience. I began my journey in Technology through a FAPESP research project supervised by Professor Deyvid Amgarten, focused on building a generative AI–based microservice. You can read more about the project here: https://bv.fapesp.br/pt/bolsas/223264/bio-jarvis-desenvolvimento-de-um-micro-servico-baseado-em-ia-generativa-para-geracao-de-textos-de-in/
+I'm a developer currently working as a Python intern at Genesis Genomics, with over a year of experience. I began my journey in Technology through a FAPESP research project supervised by Professor Deyvid Amgarten, focused on building a generative AI–based microservice. You can read more about the project here: https://omicsintel.com/insights/biojarvis-post
 
 Alongside the research, I collaborate with the Genesis Genomics development team, working primarily with Python, using libraries like pandas and boto3, and frameworks such as Django and Flask. I also work with AI-related concepts and AWS services, especially S3 and Bedrock.
 

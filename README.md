@@ -24,11 +24,10 @@
 
 <!-- SOBRE MIM -->
 ### 👨‍💻 About Me
+I'm a developer currently working as a Python intern at Genesis Genomics, with over a year of experience. I began my journey in Technology through a FAPESP research project supervised by Professor Deyvid Amgarten, focused on building a generative AI–based microservice. You can read more about the project here: https://bv.fapesp.br/pt/bolsas/223264/bio-jarvis-desenvolvimento-de-um-micro-servico-baseado-em-ia-generativa-para-geracao-de-textos-de-in/
+Alongside the research, I collaborate with the Genesis Genomics development team, working primarily with Python, using libraries like pandas and boto3, and frameworks such as Django and Flask. I also work with AI-related concepts and AWS services, especially S3 and Bedrock.
 
-I'm currently studying **Analysis and Systems Development** at *IFSP - Instituto Federal de São Paulo* and working as a **Full-Stack Python intern at Genesis Genomics**, under the guidance of Professor Deyvid Amgarten.
-
-I entered the programming field with a clear goal of building a solid career, and I’ve been investing daily to achieve that. I'm a fast learner, a good communicator, and always eager to improve myself by learning new technologies and professional skills.
-
+Feel free to reach out: g.bezerra.contato@gmail.com
 ---
 
 <!-- STACKS -->

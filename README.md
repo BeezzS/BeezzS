@@ -10,7 +10,6 @@
 
 <!-- TÍTULO E LINKS -->
 <div align="center">
-  <h3> Python | AI | AWS Bedrock | AWS S3 </h3>
 
   <!-- Social Links with colorful logos -->
   <a href="https://stackoverflow.com/users/23498042/gustavo-bezerra" target="_blank">

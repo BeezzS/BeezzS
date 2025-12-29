@@ -53,8 +53,8 @@ Feel free to reach out: g.bezerra.contato@gmail.com
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BizerraGuU&theme=nord_dark&hide_border=false" />
-  <img width="31.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BizerraGuU&theme=nord_dark&hide_border=false" />
+  <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeezzS&theme=nord_dark&hide_border=false" />
+  <img width="31.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeezzS&theme=nord_dark&hide_border=false" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Feel free to reach out: g.bezerra.contato@gmail.com
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BizerraGuU&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeezzS&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---

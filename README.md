@@ -20,7 +20,13 @@ Currently in my **final semester** of college, pursuing an **Associate degree in
 <h2 align="center">🚀 Stacks & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,python,django,flutter&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,python&theme=light" />
+</p>
+
+<h3 align="center">📝 Currently Studying with</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,django&theme=light" />
 </p>
 
 <h3 align="center">🤓 Also familiar with</h3>

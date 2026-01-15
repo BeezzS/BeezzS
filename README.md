@@ -76,7 +76,9 @@ Currently in my **final semester** of college, pursuing an **Associate degree in
       </p>
       <p>
         <sub>
-          <b>Tech stack:</b> AI • Metagenomics • Prompt Engineering • Python • AWS
+          <b><p align="center">
+              <img src="https://skillicons.dev/icons?i=aws,python&theme=light" />
+            </p>
         </sub>
       </p>
     </td>

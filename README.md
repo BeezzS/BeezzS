@@ -23,10 +23,10 @@ Currently in my **final semester** of college, pursuing an **Associate degree in
   <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,python&theme=light" />
 </p>
 
-<h3 align="center">📝 Currently Studying with</h3>
+<h3 align="center">📝 Currently Studying</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,django&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask&theme=light" />
 </p>
 
 <h3 align="center">🤓 Also familiar with</h3>

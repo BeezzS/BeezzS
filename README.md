@@ -10,22 +10,25 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Junior Python Developer**.  
-I was an intern at **Genesis Genomics**, with over **1 year of experience** in applied AI.  
+I'm a **Systems Analyst focused on data, system integrations, and process automation**.
 
-Currently in my **final semester** of college, pursuing an **Associate degree in Systems Analysis and Development** at **IFSP – São Paulo, Brazil**.
+Currently working at **Templog**, supporting business operations through system stability, data validation, and integration between enterprise platforms.
+
+I previously worked as a **research intern funded by FAPESP**, developing **generative AI solutions applied to microservices**, gaining experience with Python, APIs, and cloud services.
+
+I'm currently in my **final semester** pursuing an **Associate Degree in Systems Analysis and Development** at **IFSP – São Paulo, Brazil**.
 
 ---
 
 <h2 align="center">🚀 Stacks & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,python,azure,windows&theme=light" />
 </p>
 <h3 align="center">🤓 Also familiar with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,mysql,linux,flask,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=angular,aws,mysql,linux,flask,postman&theme=light" />
 </p>
 
 ---

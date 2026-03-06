@@ -28,7 +28,7 @@ I'm currently in my **final semester** pursuing an **Associate Degree in Systems
 <h3 align="center">🤓 Also familiar with</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,aws,mysql,linux,flask,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=angular,aws,mysql,linux,flask,django,postman&theme=light" />
 </p>
 
 ---
